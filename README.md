@@ -129,6 +129,7 @@ def train_model(model, train_loader, num_epochs=3):
 <img width="540" height="420" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/053fca4c-4739-47f1-8f3d-acb20641b508" />
 
 ### New Sample Data Prediction
+<img width="513" height="614" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/586cf14d-e082-4ee3-9c72-67aa11871f21" />
 
 ## RESULT
 Thus, a convolutional deep neural network for image classification and to verify the response for new images is to developed successfully.
